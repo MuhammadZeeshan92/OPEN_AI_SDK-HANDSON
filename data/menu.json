@@ -1,0 +1,58 @@
+[
+    {
+        "id": "M001",
+        "name": "Zinger Burger",
+        "category": "Burgers",
+        "price": 450,
+        "available": true,
+        "description": "Crispy chicken fillet burger with lettuce and mayo."
+    },
+    {
+        "id": "M002",
+        "name": "Chicken Burger",
+        "category": "Burgers",
+        "price": 350,
+        "available": true,
+        "description": "Grilled chicken burger with lettuce and mayo."
+    },
+    {
+        "id": "M003",
+        "name": "Beef Burger",
+        "category": "Burgers",
+        "price": 500,
+        "available": false,
+        "description": "Juicy beef burger with cheese and special sauce."
+    },
+    {
+        "id": "M004",
+        "name": "Regular Fries",
+        "category": "Sides",
+        "price": 180,
+        "available": true,
+        "description": "Crispy golden fries."
+    },
+    {
+        "id": "M005",
+        "name": "Large Fries",
+        "category": "Sides",
+        "price": 280,
+        "available": true,
+        "description": "Large serving of crispy golden fries."
+    },
+    {
+        "id": "M006",
+        "name": "Coke",
+        "category": "Drinks",
+        "price": 100,
+        "available": true,
+        "description": "Cold Coca-Cola."
+    },
+    {
+        "id": "M007",
+        "name": "Chicken Pizza",
+        "category": "Pizza",
+        "price": 850,
+        "available": true,
+        "description": "Medium pizza topped with chicken and cheese."
+    }
+]

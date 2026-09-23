@@ -1,0 +1,28 @@
+[
+  {
+    "order_id": "ORD001",
+    "items": [
+      "Zinger Burger",
+      "Regular Fries"
+    ],
+    "total": 630,
+    "status": "Preparing"
+  },
+  {
+    "order_id": "ORD002",
+    "items": [
+      "Zinger Burger",
+      "Regular Fries"
+    ],
+    "total": 630,
+    "status": "Preparing"
+  },
+  {
+    "order_id": "ORD003",
+    "items": [
+      "Chicken Burger"
+    ],
+    "total": 350,
+    "status": "Preparing"
+  }
+]
